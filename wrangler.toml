@@ -3,6 +3,6 @@ type = "javascript"
 
 main = "src/index.js"
 
-account_id = "YOUR_ACCOUNT_ID"
+account_id = "2b52014a6496de347bb71b0133dabcc8"
 workers_dev = true
 compatibility_date = "2025-06-22"
