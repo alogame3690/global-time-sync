@@ -1,9 +1,8 @@
 name = "global-time-sync"
 type = "javascript"
 
+main = "src/index.js"
+
 account_id = "YOUR_ACCOUNT_ID"
 workers_dev = true
 compatibility_date = "2025-06-22"
-
-[build]
-upload.format = "modules"
